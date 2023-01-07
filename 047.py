@@ -1,3 +1,3 @@
-for c in range (0, 52, 2):
+for c in range (2, 51, 2):
     print(c)
 print('fim')
